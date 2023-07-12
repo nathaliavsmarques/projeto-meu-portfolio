@@ -1,0 +1,21 @@
+.sobre {
+    background-color: var(--cinza-medio);
+    padding: 16px;
+
+}
+
+.sobre__titulo {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: normal;
+
+}
+
+.sobre__texto {
+   text-align: justify;
+   font-size: 16px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 25px;
+   
+}

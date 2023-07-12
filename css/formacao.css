@@ -1,0 +1,37 @@
+.formacao{
+    height: 100%;
+    background-color:var(--cinza-medio-mais);
+    padding: 32px;  
+    
+}
+
+.formacao__titulo {
+    color: var(--quase-branco);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+
+}
+
+.formacao__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.formacao__containers {
+    background-color: #fff;
+    height: 250px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.formacao__containers img {
+    width: 150px;
+    
+}

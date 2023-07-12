@@ -1,0 +1,86 @@
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  .cabecalho__email {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+
+  .apresentacao {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+  .apresentacao__container {
+    max-width: 60%;
+    margin: 0;
+  }
+
+  .apresentacao__foto {
+    width: 370px;
+    height: 300px;
+    padding: 30px;
+  }
+
+  .apresentacao__texto {
+    font-size: 16px;
+  }
+
+  .apresentacao__lista {
+    font-size: 16px;
+    font-weight: 500;
+  }
+
+  .skills__titulo {
+    font-size: 25px;
+  }
+
+  .skills__icones {
+    margin: 20px;
+    padding: 20px;
+    height: 120px;
+    width: 120px;
+  }
+
+  .skills__icones i {
+    font-size: 40px;
+  }
+
+  .skills__icones p {
+    font-size: 20px;
+  }
+
+  .hobbies__icones {
+    height: 120px;
+    width: 200px;
+  }
+
+  .hobbies__icones img {
+    width: 70px;
+  }
+
+  .hobbies__icones p {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .formacao__container {
+    flex-direction: row;
+  }
+
+  .formacao__containers {
+    text-align: center;
+    height: 200px;
+    margin: 10px;
+    padding: 10px;
+  }
+
+  .formacao__containers img {
+    width: 90px;
+  }
+
+  .projetos__img img {
+    max-width: 500px;
+    max-height: 420px;
+    border-radius: 10px;
+  }
+}

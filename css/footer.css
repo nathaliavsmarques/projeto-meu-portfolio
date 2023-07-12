@@ -1,0 +1,9 @@
+footer {
+    background-color: var(--cinza-escuro);
+    color: var(--quase-branco);    
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: normal;
+}
